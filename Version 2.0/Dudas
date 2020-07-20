@@ -1,0 +1,27 @@
+Dudas:			
+	1) 	Comparar lo que tiene que llevar al principio (cabecera) con lo primero que leamos del fichero
+		
+		if (f.getline(fichero, strlen(cabecera)) == cabecera)... ?
+
+		- Yo lo tenia hecho asi:
+
+			for (int i = 0; i < strlen(cabecera); ++i){
+				f >> dato;
+				if (dato != cabecera[i]){
+					return false;
+				}
+			}
+
+	2) Esto está bien?? (línea 144 jugador.cpp)
+
+		num = rand()%t.numPos();
+
+	3) Parámetro por defecto en el pretty pint
+
+		void Tablero::prettyPrint(bool ayuda, ostream& os = cout); (.h)
+		void Tablero::prettyPrint(bool ayuda, ostream& os); (cpp)
+
+		t.prettyPrint(false); (en las llamadas)
+
+
+

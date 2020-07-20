@@ -1,0 +1,3 @@
+/home/pablo/Escritorio/PracticasConCppMetProg17/reversi/version2/CMakeFiles/edit_cache.dir
+/home/pablo/Escritorio/PracticasConCppMetProg17/reversi/version2/CMakeFiles/rebuild_cache.dir
+/home/pablo/Escritorio/PracticasConCppMetProg17/reversi/version2/CMakeFiles/reversi.dir

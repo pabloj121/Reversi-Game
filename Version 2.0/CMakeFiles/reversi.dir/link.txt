@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -pedantic -std=c++14 -g   CMakeFiles/reversi.dir/matriz.cpp.o CMakeFiles/reversi.dir/tablero.cpp.o CMakeFiles/reversi.dir/jugador.cpp.o CMakeFiles/reversi.dir/reversi.cpp.o  -o reversi -rdynamic 
